@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">claratran_A3</string>
+    <string name="search">Record current location</string>
+    <string name="clear_all">Clear Map</string>
+    <string name="snackbar_msg">
+        You were here: %1$s \n
+        Temp: %2$sF (%3$s)</string>
+    <string name="title_activity_maps">MapIt</string>
+</resources>
